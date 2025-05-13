@@ -65,7 +65,7 @@ def export_selection_abc(obj, full_path):
               " -file " + full_path
     print(command)
     cmds.AbcExport(j=command)
-    
+
     return True
 
 
