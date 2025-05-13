@@ -15,7 +15,7 @@ def switch_order_of_extensions(path):
 
 def main():
 
-    path = 'J:\projects\jamaica_training_day\jamaica_training_day_maya\jamaica_training_day\images'
+    path = ''
     switch_order_of_extensions(path)
 
 if __name__ == '__main__':
